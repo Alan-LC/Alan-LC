@@ -15,13 +15,13 @@
 
 ### 🛠️ **Habilidades:**
 
-- ![JavaScript](https://skillicons.dev/icons?i=js)
-- ![TypeScript](https://skillicons.dev/icons?i=ts)
-- ![React](https://skillicons.dev/icons?i=react)
-- ![Next.js](https://skillicons.dev/icons?i=nextjs)
-- ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-- ![GitHub](https://skillicons.dev/icons?i=github)
-- ![Premiere](https://skillicons.dev/icons?i=pr)
+![JavaScript](https://skillicons.dev/icons?i=js) 
+![TypeScript](https://skillicons.dev/icons?i=ts) 
+![React](https://skillicons.dev/icons?i=react) 
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) 
+![GitHub](https://skillicons.dev/icons?i=github)
+![Premiere](https://skillicons.dev/icons?i=pr)
 <!--- ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)-->
 
