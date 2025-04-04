@@ -4,12 +4,11 @@
 
 ---
 
-<!-- ## 📫 **Contacto:**
+ ## 📫 **Contacto:**
 
-- **Correo:** tuemail@ejemplo.com
-- **LinkedIn:** [TuPerfil](https://www.linkedin.com/in/tuperfil/)
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario) -->
-
+- **Correo:** alanlc.contacto@gmail.com
+- **LinkedIn:** [Alan León Cortez](https://www.linkedin.com/in/alan-l-9678b0322/)
+- **Twitter:** [@alanlc_dev](https://twitter.com/alanlc_dev)
 
 ---
 
